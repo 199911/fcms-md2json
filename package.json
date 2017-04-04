@@ -1,5 +1,5 @@
 {
-  "name": "md2json",
+  "name": "fcms-md2json",
   "version": "0.0.0",
   "description": "Convert Hexo-like markdown file content to a json object",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/199911/md2json.git"
+    "url": "git+https://github.com/199911/fcms-md2json.git"
   },
   "keywords": [
     "markdown",
@@ -18,9 +18,9 @@
   "author": "Ku Lok Sun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/199911/md2json/issues"
+    "url": "https://github.com/199911/fcms-md2json/issues"
   },
-  "homepage": "https://github.com/199911/md2json#readme",
+  "homepage": "https://github.com/199911/fcms-md2json#readme",
   "dependencies": {
     "showdown": "^1.6.4",
     "yaml-front-matter": "^3.4.0"
